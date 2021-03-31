@@ -1,11 +1,11 @@
 ---
 title: "NLRG at SemEval-2021 Task 5: Toxic Spans Detection Leveraging BERT-based Token Classification and Span Prediction Techniques"
 collection: publications
-permalink: /_publication/2021-02-24-NLRG-at-semeval-2021
+permalink: /publication/2021-02-24-NLRG-at-semeval-2021
 # excerpt: 'News Propaganda, High granularity, Imbalanced Classification, Contextual Embeddings'
 date: 2021-02-24
 venue: 'SemEval'
-paperurl: 'https://arxiv.org/abs/2102.12254'
+# paperurl: 'https://arxiv.org/abs/2102.12254'
 redirect_to: https://arxiv.org/abs/2102.12254
 # citation: ''
 
