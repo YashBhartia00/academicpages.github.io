@@ -6,6 +6,7 @@ permalink: /_publication/2021-02-24-NLRG-at-semeval-2021
 date: 2021-02-24
 venue: 'Submited for review at SemEval-2021'
 paperurl: 'https://arxiv.org/abs/2102.12254'
+redirect_to: https://arxiv.org/abs/2102.12254
 # citation: 'patil-etal-2020-bpgc'
 
 ---
