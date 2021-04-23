@@ -1,0 +1,9 @@
+---
+title: "MetroPolis"
+# excerpt: "<br/><img src='/images/500x300.png'>"
+collection: projects
+redirect_to: https://yashbhartia00.github.io/Metropolis/
+---
+- Game made in unity as part of TechTatva fest in MIT (Manipal), playable on WebGL
+- Game rules were regulated by the organizing committee
+- Select blocks and click to place them on grid
