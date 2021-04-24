@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae](../files/CV_Yash_Bhartia.pdf)
+[Curriculum Vitae](../files/Yash_Bhartia_CV.pdf)
 
 [Resume](../files/Resume_Yash_Bhartia.pdf)
 
