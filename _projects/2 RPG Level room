@@ -1,0 +1,21 @@
+---
+title: "RPG Level Demo"
+excerpt: "
+- Illustrated simple level design and fighting combos using on state machine.\n
+- Used Unity to Make the game demo, complete with Sound design and dynamic lighting.\n
+- Played by more than 70 people, playable in browser\n
+
+<center>
+<img src='/files/projectFiles/sampleRPG.gif' width = 400></center>\n
+<font color='grey'><center>GIF of multi attack combo </center></font>
+"
+collection: projects
+redirect_to: https://dicefinity.itch.io/rpg-sample-scene
+categories:
+    - Game Development
+tags:
+    - Unity
+    - Algorithms
+    - RPG
+    - Level Design
+---
