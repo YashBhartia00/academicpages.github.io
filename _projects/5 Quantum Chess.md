@@ -1,6 +1,12 @@
 ---
 title: "Quantum chess"
-# excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "
+- Designed state diagram for the quantum part of the game \n
+- Implemented functions like entangle, split and measure for the quantum chess pieces\n
+- Open source Quantum Chess implementation, made with Qiskit, hichesslib, and Qt\n
+<br/><center><img src='/files/projectFiles/qChessFlowChart.jpeg'></center>
+<font color='grey'><center>state diagrams of quantum chess</center></font>
+"
 collection: projects
 redirect_to: https://github.com/SEDSCelestiaBPGC/quantum-chess
 ---
