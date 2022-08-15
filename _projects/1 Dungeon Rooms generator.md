@@ -9,7 +9,7 @@ excerpt: "
 <font color='grey'><center>GIF showing the process </center></font>
 "
 collection: projects
-# redirect_to: https://github.com/YashBhartia00/Procedural-Dungeon-Rooms
+redirect_to: https://github.com/YashBhartia00/Procedural-Dungeon-Rooms
 categories:
     - Game Development
 tags:
